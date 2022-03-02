@@ -4,4 +4,4 @@ Apenas abra o arquivo index.html usando um navegador
 
 Checkbox using Lottie Animation
 
-Guilherme Gouveia
+[Guilherme Gouveia](https://github.com/GuilhermeAGouveia/)
